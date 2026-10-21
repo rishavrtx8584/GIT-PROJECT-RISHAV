@@ -15,3 +15,6 @@ Hey i am Rishav.
 
 - <ultra: one line about it
 - beta: one line about it
+
+## contact 
+- Email : rishavshaw468@gmail.com
